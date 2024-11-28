@@ -1,0 +1,11 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.ai.copilot-chat",
+    "lazyvim.plugins.extras.ui.mini-animate",
+    "lazyvim.plugins.extras.util.mini-hipatterns"
+  ],
+  "news": {
+    "NEWS.md": "7429"
+  },
+  "version": 7
+}
